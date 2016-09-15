@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <com.google.android.libraries.youtube.common.ui.FixedAspectRatioFrameLayout android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" res-auto:aspectRatio="@fraction/rounded_aspect_ratio_16_9" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:res-auto="http://schemas.android.com/apk/res-auto">
-    <View android:background="#ffeeeeee" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:background="@color/background_secondary_light" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
     <FrameLayout android:layout_gravity="center" android:id="@id/topic_view" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="?selectableItemBackground">
         <ImageView android:id="@id/topic_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@null" />
         <ImageView android:id="@id/top_shadow" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/housewarming_top_shadow" android:contentDescription="@null" />
