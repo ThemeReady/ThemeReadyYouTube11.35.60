@@ -112,11 +112,11 @@
     <style name="GvrDialogTheme" parent="@android:style/Theme.Material.Light.Dialog" />
     <style name="InfoCards">
         <item name="android:foreground">?android:selectableItemBackground</item>
-        <item name="cardBackgroundColor">@android:color/white</item>
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
     <style name="InfoCardsWatchNext">
         <item name="android:foreground">?android:selectableItemBackground</item>
-        <item name="cardBackgroundColor">@android:color/white</item>
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
     <style name="Mdx.ProgressSmall" parent="@android:style/Widget.Material.ProgressBar.Small" />
     <style name="NoSystemUI" parent="@style/VrActivityTheme" />
@@ -128,7 +128,7 @@
         <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
         <item name="android:textColorLinkInverse">?android:colorAccent</item>
     </style>
-    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.DeviceDefault.Light">
         <item name="android:windowNoTitle">true</item>
         <item name="android:textColorLink">?android:colorAccent</item>
         <item name="android:windowActionBar">false</item>

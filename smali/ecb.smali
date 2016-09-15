@@ -73,7 +73,7 @@
     iget-object v0, p0, Lcom/google/android/libraries/youtube/player/overlay/DefaultThumbnailOverlay;->a:Landroid/widget/ImageView;
 
     .line 79
-    const v1, 0x106000c
+    const v1, 0x106000d
 
     invoke-virtual {v0, v1}, Landroid/widget/ImageView;->setBackgroundResource(I)V
 

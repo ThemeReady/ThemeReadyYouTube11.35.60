@@ -4,8 +4,8 @@
     <include layout="@layout/set_bar" />
     <com.google.android.libraries.youtube.common.ui.SliderLayout android:id="@id/set_content_slider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/set_bar" res-auto:orientation="vertical" res-auto:collapseStrategy0="occlude" res-auto:collapseStrategy1="displace" xmlns:res-auto="http://schemas.android.com/apk/res-auto">
         <FrameLayout android:id="@id/set_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-        <com.google.android.libraries.youtube.common.ui.LoadingFrameLayout android:id="@id/video_info_loading_layout" android:background="@color/primary_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
-            <android.support.v7.widget.RecyclerView android:id="@id/watch_list" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:cacheColorHint="@color/primary_background" android:divider="@null" android:dividerHeight="0.0dip" android:smoothScrollbar="false" />
+        <com.google.android.libraries.youtube.common.ui.LoadingFrameLayout android:id="@id/video_info_loading_layout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <android.support.v7.widget.RecyclerView android:id="@id/watch_list" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:cacheColorHint="@color/full_transparent" android:divider="@null" android:dividerHeight="0.0dip" android:smoothScrollbar="false" />
         </com.google.android.libraries.youtube.common.ui.LoadingFrameLayout>
     </com.google.android.libraries.youtube.common.ui.SliderLayout>
     <include layout="@layout/live_chat" />

@@ -207,7 +207,7 @@
 
     check-cast v0, Lsfc;
 
-    const v3, -0x19dee9
+    const v3, -0x1
 
     .line 131
     invoke-static {v3}, Lscl;->b(I)[F
@@ -316,7 +316,7 @@
 
     :array_0
     .array-data 4
-        -0x19dee9
+        -0x1
         -0x575758
         -0x1
     .end array-data

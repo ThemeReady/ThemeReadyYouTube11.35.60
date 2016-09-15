@@ -127,7 +127,7 @@
 
     check-cast v0, Lsfc;
 
-    const v3, -0x19dee9
+    const v3, -0x1
 
     .line 45
     invoke-static {v3}, Lscl;->b(I)[F
@@ -250,7 +250,7 @@
     .line 77
     iget-object v0, p0, Lsev;->f:Lscl;
 
-    const v1, -0x19dee9
+    const v1, -0x1
 
     invoke-virtual {v0, v1}, Lscl;->a(I)V
 

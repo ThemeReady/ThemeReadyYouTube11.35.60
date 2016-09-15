@@ -145,7 +145,7 @@
 
     check-cast v0, Lsfc;
 
-    const v3, -0x19dee9
+    const v3, -0x1
 
     .line 66
     invoke-static {v3}, Lscl;->b(I)[F
