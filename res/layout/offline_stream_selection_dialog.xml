@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="300.0dip" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/offline_stream_selection_list" android:layout_width="fill_parent" android:layout_height="0.0dip" android:divider="@null" android:choiceMode="singleChoice" android:layout_weight="1.0" />
+    <View android:id="@id/offline_stream_selection_group_bottom_separator" android:background="@color/line_separator_color" android:layout_width="fill_parent" android:layout_height="@dimen/line_separator_height" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" />
+    <CheckBox android:textAppearance="?textAppearanceSubhead" android:id="@id/remember_stream_setting" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="12.0dip" android:text="@string/offline_remember_stream_setting" />
+    <View android:layout_gravity="center_vertical" android:id="@id/offline_mode_group_top_separator" android:background="@color/line_separator_color" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/line_separator_height" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" />
+    <ListView android:id="@id/offline_mode_selection_list" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="16.0dip" android:divider="@null" android:choiceMode="singleChoice" android:layout_weight="1.0" />
+</LinearLayout>

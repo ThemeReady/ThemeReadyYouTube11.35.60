@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/live_chat" android:layout_width="fill_parent" android:layout_height="fill_parent" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.youtube.livecreation.ui.view.LiveChatRecyclerView android:id="@id/conversation_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:divider="@null" android:dividerHeight="0.0dip" android:importantForAccessibility="no" />
+    <FrameLayout android:layout_gravity="top" android:id="@id/overlaid_messages" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignTop="@id/conversation_list" android:importantForAccessibility="no" />
+    <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textSize="12.0sp" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="bottom" android:id="@id/more_comments_text" android:background="?selectableItemBackground" android:padding="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/lc_chat_more_comments_text" />
+</RelativeLayout>

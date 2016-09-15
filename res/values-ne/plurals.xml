@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_dislike_video_plural">
+        <item quantity="other">मन नपराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="zero">मन नपराउनुहोस् भन्ने बटन</item>
+        <item quantity="one">मन नपराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="two">मन नपराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="few">मन नपराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="many">मन नपराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+    </plurals>
+    <plurals name="accessibility_like_video_plural">
+        <item quantity="other">मन पराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="zero">मन पराउनुहोस् भन्ने बटन</item>
+        <item quantity="one">मन पराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="two">मन पराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="few">मन पराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="many">मन पराउनुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">%1$d मा विज्ञापन छाड्नुहोस्</item>
+        <item quantity="zero">० सेकेन्डमा विज्ञापन छाड्नुहोस्</item>
+        <item quantity="one">१ सेकेन्डमा विज्ञापन छाड्नुहोस्</item>
+        <item quantity="two">२ सेकेन्डमा विज्ञापन छाड्नुहोस्</item>
+        <item quantity="few">%1$d सेकेन्डमा विज्ञापन छाड्नुहोस्</item>
+        <item quantity="many">%1$d मा विज्ञापन छाड्नुहोस्</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_video_plural">
+        <item quantity="other">मन नपराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="zero">मन नपराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन</item>
+        <item quantity="one">मन नपराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="two">मन नपराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="few">मन नपराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+        <item quantity="many">मन नपराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छैनन्</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_video_plural">
+        <item quantity="other">मन पराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="zero">मन पराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन</item>
+        <item quantity="one">मन पराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="two">मन पराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="few">मन पराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+        <item quantity="many">मन पराइएको अवस्थालाई अनडू गर्नुहोस् भन्ने बटन, अन्य %1$,d ले यो भिडियो मन पराएका छन्</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d हेराइहरू</item>
+        <item quantity="zero">%1$s · %2$,d हेराइहरू</item>
+        <item quantity="one">%1$s · %2$,d हेराइ</item>
+        <item quantity="two">%1$s · %2$,d हेराइहरू</item>
+        <item quantity="few">%1$s · %2$,d हेराइहरू</item>
+        <item quantity="many">%1$s · %2$,d हेराइहरू</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">%1$d नयाँ भिडियोहरू सिंक गर्नुहोस्</item>
+        <item quantity="zero">%1$d नयाँ भिडियोहरू सिंक गर्नुहोस्</item>
+        <item quantity="one">%1$d नयाँ भिडियो सिंक गर्नुहोस्</item>
+        <item quantity="two">%1$d नयाँ भिडियोहरू सिंक गर्नुहोस्</item>
+        <item quantity="few">%1$d नयाँ भिडियोहरू सिंक गर्नुहोस्</item>
+        <item quantity="many">%1$d नयाँ भिडियोहरू सिंक गर्नुहोस्</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d दिन बाँकी</item>
+        <item quantity="one">१ दिन बाँकी</item>
+        <item quantity="two">२ दिन बाँकी</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d घण्टा बाँकी</item>
+        <item quantity="one">१ घण्टा बाँकी</item>
+        <item quantity="two">२ घण्टा बाँकी</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">%1$d मिनेट बाँकी</item>
+        <item quantity="one">१ मिनेट बाँकी</item>
+        <item quantity="two">२ मिनेट बाँकी</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%2$d भिडियोहरू मध्ये %1$d</item>
+        <item quantity="zero">० मध्ये ० भिडियोहरू</item>
+        <item quantity="one">१ भिडियो मध्ये %1$d</item>
+        <item quantity="two">%2$d भिडियोहरू मध्ये %1$d</item>
+        <item quantity="few">%2$d भिडियोहरू मध्ये %1$d</item>
+        <item quantity="many">%2$d भिडियोहरू मध्ये %1$d</item>
+    </plurals>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d भिडियो</item>
+        <item quantity="one">१ भिडियो</item>
+    </plurals>
+    <plurals name="transcoding_progress">
+        <item quantity="other">तयार पार्दै %1$,d%%</item>
+        <item quantity="zero">तयार पार्दै %1$,d%%</item>
+        <item quantity="one">तयार पार्दै %1$,d%%</item>
+        <item quantity="two">तयार पार्दै %1$,d%%</item>
+        <item quantity="few">तयार पार्दै %1$,d%%</item>
+        <item quantity="many">तयार पार्दै %1$,d%%</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">लगभग %1$,d घण्टा बाँकी</item>
+        <item quantity="zero">लगभग %1$,d घण्टा बाँकी</item>
+        <item quantity="one">लगभग %1$,d घण्टा बाँकी</item>
+        <item quantity="two">लगभग %1$,d घण्टा बाँकी</item>
+        <item quantity="few">लगभग %1$,d घण्टा बाँकी</item>
+        <item quantity="many">लगभग %1$,d घण्टा बाँकी</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">लगभग %1$,d मिनेट बाँकी</item>
+        <item quantity="zero">लगभग %1$,d मिनेट बाँकी</item>
+        <item quantity="one">लगभग %1$,d मिनेट बाँकी</item>
+        <item quantity="two">लगभग %1$,d मिनेट बाँकी</item>
+        <item quantity="few">लगभग %1$,d मिनेट बाँकी</item>
+        <item quantity="many">लगभग %1$,d मिनेट बाँकी</item>
+    </plurals>
+    <plurals name="upload_notification_active_progress">
+        <item quantity="other">%2$d भिडियोहरू मध्ये %1$d लाई अपलोड गरिँदै छ</item>
+        <item quantity="one">१ भिडियोलाई अपलोड गरिँदै छ</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% अपलोड गरियो</item>
+        <item quantity="zero">%1$,d%% अपलोड गरियो</item>
+        <item quantity="one">%1$,d%% अपलोड गरियो</item>
+        <item quantity="two">%1$,d%% अपलोड गरियो</item>
+        <item quantity="few">%1$,d%% अपलोड गरियो</item>
+        <item quantity="many">%1$,d%% अपलोड गरियो</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">लगभग %1$,d सेकेन्ड बाँकी</item>
+        <item quantity="zero">लगभग %1$,d सेकेन्ड बाँकी</item>
+        <item quantity="one">लगभग %1$,d सेकेन्ड बाँकी</item>
+        <item quantity="two">लगभग %1$,d सेकेन्ड बाँकी</item>
+        <item quantity="few">लगभग %1$,d सेकेन्ड बाँकी</item>
+        <item quantity="many">लगभग %1$,d सेकेन्ड बाँकी</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d भिडियोहरू</item>
+        <item quantity="zero">० भिडियोहरू</item>
+        <item quantity="one">१ भिडियो</item>
+        <item quantity="two">२ भिडियोहरू</item>
+        <item quantity="few">%1$d भिडियोहरू</item>
+        <item quantity="many">%1$d भिडियोहरू</item>
+    </plurals>
+</resources>

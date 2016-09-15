@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?selectableItemBackground" android:layout_width="wrap_content" android:layout_height="fill_parent" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Spinner android:id="@id/spinner" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/spinner_arrow" android:paddingLeft="-7.0dip" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:src="@drawable/quantum_ic_arrow_drop_down_grey600_24" />
+</LinearLayout>

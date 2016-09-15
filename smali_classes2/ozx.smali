@@ -1,0 +1,43 @@
+.class final Lozx;
+.super Ljava/util/ArrayList;
+.source "SourceFile"
+
+
+# direct methods
+.method constructor <init>()V
+    .locals 1
+
+    .prologue
+    .line 37
+    invoke-direct {p0}, Ljava/util/ArrayList;-><init>()V
+
+    .line 38
+    const/4 v0, 0x2
+
+    invoke-static {v0}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v0
+
+    invoke-virtual {p0, v0}, Lozx;->add(Ljava/lang/Object;)Z
+
+    .line 39
+    const/4 v0, 0x4
+
+    invoke-static {v0}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v0
+
+    invoke-virtual {p0, v0}, Lozx;->add(Ljava/lang/Object;)Z
+
+    .line 40
+    const/4 v0, 0x3
+
+    invoke-static {v0}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v0
+
+    invoke-virtual {p0, v0}, Lozx;->add(Ljava/lang/Object;)Z
+
+    .line 41
+    return-void
+.end method

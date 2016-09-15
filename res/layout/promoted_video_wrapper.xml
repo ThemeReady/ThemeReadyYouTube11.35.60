@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/promoted_video_wrapper" android:layout_width="fill_parent" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/promoted_video_portrait_stub" android:layout="@layout/promoted_video_item" android:inflatedId="@id/promoted_video_portrait" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/promoted_video_landscape_stub" android:layout="@layout/promoted_video_item" android:inflatedId="@id/promoted_video_landscape" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

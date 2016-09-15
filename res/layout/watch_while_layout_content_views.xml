@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/pane_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?actionBarSize">
+        <com.google.android.apps.youtube.app.ui.inline.InlinePlayerLayout android:id="@id/inline_player_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/fab_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/watch_while_fab_view" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/toolbar_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/watch_while_activity_toolbar" />
+    </FrameLayout>
+</merge>

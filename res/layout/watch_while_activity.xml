@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.youtube.app.ui.AccessibilityLayerLayout android:id="@id/accessibility_layer_container" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" res-auto:backgroundViewId="@id/watch_while_layout" res-auto:footerViewId="@id/pivot_bar" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:res-auto="http://schemas.android.com/apk/res-auto">
+    <ViewStub android:id="@id/watch_while_layout_stub" android:layout="@layout/watch_while_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/mdx_fragment_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.google.android.apps.youtube.app.ui.bottomui.BottomUiContainer android:layout_gravity="bottom|center" android:id="@id/bottom_ui_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/include_memory_monitor" />
+    <com.google.android.apps.youtube.app.ui.PivotTabsBar android:gravity="bottom|center" android:layout_gravity="bottom|center" android:id="@id/pivot_bar" android:background="@color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/CompatElevationZ8" />
+</com.google.android.apps.youtube.app.ui.AccessibilityLayerLayout>

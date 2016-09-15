@@ -1,0 +1,44 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: YouTube11.35.60.apk
+compressionType: false
+doNotCompress:
+- arsc
+- webp
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '24'
+sharedLibrary: false
+unknownFiles:
+  build-data.properties: '0'
+  auto/Auto_factory.gwt.xml: '0'
+  com/google/api/client/repackaged/org/apache/commons/codec/language/dmrules.txt: '0'
+  com/google/auto/factory/Factory.gwt.xml: '0'
+  com/google/ipc/invalidation/external/client2/Api.gwt.xml: '0'
+  com/google/ipc/invalidation/external/client2/types/Types.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Preconditions.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Types_api.gwt.xml: '0'
+  dagger/Core.gwt.xml: '0'
+  dagger/Dagger.gwt.xml: '0'
+  error_prone/Annotations.gwt.xml: '0'
+  javax/inject/Inject.gwt.xml: '0'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '0'
+  jsr330_inject/Jsr330_inject.gwt.xml: '0'
+  third_party/java_src/auto/factory/Factory.gwt.xml: '0'
+  third_party/java_src/dagger/project/core/Core.gwt.xml: '0'
+  third_party/java_src/dagger/project/dagger1/core/main/Main.gwt.xml: '0'
+  third_party/java_src/error_prone/Annotations.gwt.xml: '0'
+  third_party/java_src/error_prone/project/annotations/Annotations.gwt.xml: '0'
+  third_party/java_src/error_prone/project/annotations/Google_internal.gwt.xml: '0'
+  third_party/java_src/jsr330_inject/Jsr330_inject.gwt.xml: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.1.1
+versionInfo:
+  versionCode: '113560134'
+  versionName: 11.35.60

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="annonations_banner_ads_show_thumbnail">true</bool>
+    <bool name="enable_channel_layer_banner">true</bool>
+    <bool name="fetch_tablet_size_channel_banner">false</bool>
+    <bool name="generic_promo_banner_view">false</bool>
+    <bool name="query_refinements_two_columns">false</bool>
+    <bool name="rtl_single_line_true">true</bool>
+    <bool name="show_startup_promo">true</bool>
+    <bool name="supports_rtl">false</bool>
+    <bool name="use_sd_thumbnails">false</bool>
+</resources>

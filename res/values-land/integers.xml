@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="compact_movie_item_metadata_weight">2</integer>
+    <integer name="compact_movie_item_thumbnail_weight">5</integer>
+    <integer name="detailed_channel_item_metadata_weight">1</integer>
+    <integer name="detailed_channel_item_thumbnail_weight">6</integer>
+    <integer name="horizontal_shelf_num_columns">1</integer>
+    <integer name="lc_post_stream_header_lines">2</integer>
+    <integer name="my_upload_item_metadata_weight">2</integer>
+    <integer name="my_upload_item_thumbnail_weight">5</integer>
+    <integer name="my_uploads_num_columns">1</integer>
+    <integer name="shopping_action_text_column">1</integer>
+    <integer name="shopping_action_text_column_span">2</integer>
+    <integer name="shopping_merchant_text_column">0</integer>
+    <integer name="shopping_merchant_text_column_span">3</integer>
+    <integer name="shopping_product_container_column">0</integer>
+    <integer name="shopping_product_container_column_span">4</integer>
+    <integer name="shopping_product_container_row">2</integer>
+    <integer name="shopping_product_container_row_span">1</integer>
+    <integer name="watch_card_related_entities_count">4</integer>
+</resources>

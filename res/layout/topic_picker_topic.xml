@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.common.ui.FixedAspectRatioFrameLayout android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" res-auto:aspectRatio="@fraction/rounded_aspect_ratio_16_9" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:res-auto="http://schemas.android.com/apk/res-auto">
+    <View android:background="#ffeeeeee" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:layout_gravity="center" android:id="@id/topic_view" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="?selectableItemBackground">
+        <ImageView android:id="@id/topic_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@null" />
+        <ImageView android:id="@id/top_shadow" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/housewarming_top_shadow" android:contentDescription="@null" />
+        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceBody1Inverse" android:gravity="bottom" android:layout_gravity="start|bottom|center" android:id="@id/topic_title" android:background="@drawable/housewarming_title_gradient_background" android:padding="@dimen/topic_title_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="2" />
+    </FrameLayout>
+    <ImageView android:layout_gravity="start|center|top" android:id="@id/topic_selection_box" android:focusable="false" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_margin="6.0dip" android:src="@drawable/housewarming_checkbox_white" android:contentDescription="@null" />
+</com.google.android.libraries.youtube.common.ui.FixedAspectRatioFrameLayout>
